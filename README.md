@@ -28,14 +28,7 @@
 - Action stroke calculation. Using Mediapipe & OpenCV<br>
 - UI interface. Using OpenCV<br>
 - Output training logs<br>
-- 
-## Play Scene
-- 開始畫面<br>
-![Project Logo](Game%20ScreenShot/main_scene.PNG)
-- 選擇關卡<br>
-![Project Logo](Game%20ScreenShot/choose_scene.PNG)
-- 普通模式<br>
-![Project Logo](Game%20ScreenShot/normal_mode.PNG)
+
 
 
 
