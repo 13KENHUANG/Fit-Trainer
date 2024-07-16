@@ -13,7 +13,7 @@
    
 ## User Interface
 
-![This is an alt text.](AIT_UI.PNG)
+![This is an alt text.](AI_UI.PNG)
 
 ## Environment
 - Windows 10
