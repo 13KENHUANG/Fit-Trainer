@@ -29,7 +29,7 @@
 - UI interface. Using OpenCV<br>
 - Output training logs<br>
 
-## Summary and flow chart
+## Summary
 
 ![This is an alt text.](AITRAINER.PNG)
 
