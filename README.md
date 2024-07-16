@@ -10,6 +10,11 @@
    - 針對二頭肌的訓練動作<br>
    - 雙手反握啞鈴或槓鈴，兩手間距約同比肩寬，將啞鈴或槓鈴下放垂於腿前。<br>
    - 上臂內側緊貼身體。以肘關節為支點，用二頭肌的力量，將向上舉起至肩前。<br>
+   
+## User Interface
+
+![This is an alt text.](AIT_UI.PNG)
+
 ## Environment
 - Windows 10
 - Python 3.7.16
